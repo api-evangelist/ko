@@ -1,0 +1,28 @@
+aid: ko
+name: ko
+description: >-
+  ko is a tool for building and deploying Go applications to Kubernetes as container images.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Containers
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/ko/refs/heads/main/apis.yml
+created: '2026-03-26'
+modified: '2026-03-26'
+specificationVersion: '0.19'
+apis:
+  - aid: ko:ko
+    name: ko
+    description: >-
+      ko is a tool for building and deploying Go applications to Kubernetes as container images.
+    humanURL: https://github.com/api-evangelist/ko
+    tags:
+      - Containers
+    properties: []
+common:
+  - type: Website
+    url: https://github.com/api-evangelist/ko
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
