@@ -5,11 +5,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - Build Tools
+  - Container Images
   - Containers
   - Go
   - Kubernetes
-  - Container Images
-  - Build Tools
 url: >-
   https://raw.githubusercontent.com/api-evangelist/ko/refs/heads/main/apis.yml
 created: '2026-03-26'
@@ -22,11 +22,11 @@ apis:
       ko is a simple, fast container image builder for Go applications that does not require Docker, producing small images by building Go binaries and layering them on a minimal base image for deployment to Kubernetes.
     humanURL: https://ko.build/
     tags:
+      - Build Tools
+      - Container Images
       - Containers
       - Go
       - Kubernetes
-      - Container Images
-      - Build Tools
     properties:
       - type: Documentation
         url: https://ko.build/
