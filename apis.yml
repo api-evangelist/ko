@@ -30,16 +30,16 @@ apis:
     properties:
       - type: Documentation
         url: https://ko.build/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://ko.build/install/
 common:
   - type: Website
     url: https://ko.build/
   - type: Documentation
     url: https://ko.build/
-  - type: Getting Started
+  - type: GettingStarted
     url: https://ko.build/install/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/ko-build
 maintainers:
   - FN: Kin Lane
