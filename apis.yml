@@ -33,6 +33,8 @@ apis:
       - type: GettingStarted
         url: https://ko.build/install/
 common:
+  - type: DomainSecurity
+    url: security/ko-domain-security.yml
   - type: Website
     url: https://ko.build/
   - type: Documentation
