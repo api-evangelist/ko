@@ -3,6 +3,17 @@ name: Ko
 description: >-
   ko is a simple, fast container image builder for Go applications that does not require Docker, producing small images by building Go binaries and layering them on a minimal base image for deployment to Kubernetes.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
